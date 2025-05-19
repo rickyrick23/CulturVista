@@ -36,7 +36,7 @@ CulturVista is an interactive, AI-powered web application that showcases India's
 
 1. **Clone the repo**
    ```
-   git clone https://github.com/yourusername/culturvista.git
+   git clone https://github.com/rickyrick23/culturvista.git
    cd culturvista
    ```
 
